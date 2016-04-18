@@ -18,6 +18,7 @@ public class JavaApplication24 {
             System.out.println("Bonjour");
             int a=2;
             System.out.print("eeeee");
+            int b=44;
       }
       
 }
