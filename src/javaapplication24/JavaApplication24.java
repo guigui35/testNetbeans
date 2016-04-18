@@ -17,7 +17,7 @@ public class JavaApplication24 {
       public static void main(String[] args) {
             System.out.println("Bonjour");
             int a=2;
-
+            System.out.print("eeeee");
       }
       
 }
